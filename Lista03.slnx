@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="exercicio02/exercicio02.csproj" Id="6995287d-ccc0-45a5-b93f-6de9968af3c0" />
+  <Project Path="exercicio03/exercicio03.csproj" Id="e43b0289-7326-47be-8520-f7d6433c248c" />
+  <Project Path="exercicio04/exercicio04.csproj" Id="10fed49e-077d-4827-b533-cfdada27794a" />
+  <Project Path="exercicio05/exercicio05.csproj" Id="ecb78dee-dbd0-42ab-a261-bc8b3d41fc3f" />
+  <Project Path="exercicio06/exercicio06.csproj" Id="acee633d-0a3b-4c59-bcad-f2094d2f8b8a" />
+  <Project Path="exercicio07/exercicio07.csproj" Id="9b3d4692-fabf-4391-829f-d896d0f34b7a" />
+  <Project Path="exercicio08/exercicio08.csproj" Id="45855d74-1657-44e1-873c-194a0d35cb1f" />
+  <Project Path="exercicio09/exercicio09.csproj" Id="59039e26-b76c-4842-893f-1f5e32e3c87e" />
+  <Project Path="exercicio10/exercicio10.csproj" Id="54b4702f-d802-4934-bb4a-0eda4e6a5229" />
+  <Project Path="exercicio11/exercicio11.csproj" Id="d7e3d5ad-3e75-4e74-89a6-ba0460d0fd02" />
+  <Project Path="exercicio12/exercicio12.csproj" Id="e800018d-5a6c-4c3d-9637-9aab1f83582d" />
+  <Project Path="exercicio13/exercicio13.csproj" Id="439b44b9-56f0-460b-b559-946f6ce03004" />
+  <Project Path="Lista03/Lista03.csproj" />
+</Solution>
